@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="pf_name">Neang SroyTry - ITE - M2</string>
+    <string name="b_year1">Year 1</string>
+    <string name="b_year2">Year 2</string>
+    <string name="b_year3">Year 3</string>
+    <string name="b_year4">Year 4</string>
+
+    <string name="semester1">Semester 1</string>
+    <string name="semester2">Semester 2</string>
+
+    <string name="java_programing1">Java Programing 1</string>
+
+    <string name="mathematics">Mathematics</string>
+
+    <string name="mobile_app_dev_1">Mobile App Dev 1</string>
+    <string name="web_development_1">Web Development 1</string>
+    <string name="web_development_2">Web Development 2</string>
+    <string name="network_engineering">Network Engineering</string>
+    <string name="english_language">English Language</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pf_name">នាង ស្រូយទ្រី - ITE - M2</string>
+    <string name="b_year1">ឆ្នាំ 1</string>
+    <string name="b_year2">ឆ្នាំ 2</string>
+    <string name="b_year3">ឆ្នាំ 3</string>
+    <string name="b_year4">ឆ្នាំ 4</string>
+
+    <string name="semester1">ឆមាស 1</string>
+    <string name="semester2">ឆមាស 2</string>
+
+    <string name="java_programing1">ភាសា Java 1</string>
+
+    <string name="mathematics">គណិតវិទ្យា</string>
+
+    <string name="mobile_app_dev_1">កម្មវិធី 1</string>
+    <string name="web_development_1">ការអភិវឌ្ឍន៍គេហទំព័រ 1</string>
+    <string name="web_development_2">ការអភិវឌ្ឍន៍គេហទំព័រ 2</string>
+    <string name="network_engineering">វិស្វកម្មបណ្តាញ</string>
+    <string name="english_language">ភាសាអង់គ្លេស</string>
+</resources>
